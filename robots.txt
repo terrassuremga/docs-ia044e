@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-3ix0wc.jambul126.xyz/sitemap.xml
